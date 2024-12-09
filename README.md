@@ -37,7 +37,7 @@ Key Highlights:
 
 ### Key Images:
 - **2D Geometry of the composite:**  
-  ![Alt text](images/3D Geometry of the composit.png)
+  ![Alt text](3D Geometry of the composit.png)
 - **Boundary Conditions:**  
   ![Boundary Conditions](images/boundary_conditions.png)
 - **Von Mises Stress Contours:**  
