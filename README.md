@@ -1,5 +1,4 @@
-# ANSYS-Composite-Tensile-Test
-# Tensile Test on Fiber-Reinforced Composite
+=# Tensile Test on Fiber-Reinforced Composite
 
 This repository contains the scripts, images, and results for a project conducted as part of the course **ME 792**, supervised by **Dr. Hu**. The project focuses on predicting the material properties of unidirectional fiber-reinforced polymer matrix composites using both theoretical models and simulations in ANSYS APDL.
 
@@ -37,7 +36,7 @@ Key Highlights:
 
 ### Key Images:
 - **2D Geometry of the composite:**  
-  ![Alt text](3D Geometry of the composit.png)
+  ![2D Geometry](images/3D_Geometry_of_the_composit.png)
 - **Boundary Conditions:**  
   ![Boundary Conditions](images/boundary_conditions.png)
 - **Von Mises Stress Contours:**  
