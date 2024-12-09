@@ -38,9 +38,9 @@ Key Highlights:
 - **2D Geometry of the composite:**  
   ![2D Geometry](./Geometry_3D.png)
 - **Boundary Conditions:**  
-  ![Boundary Conditions](images/boundary_conditions.png)
+  ![Boundary Conditions](./BoundaryConditions.png)
 - **Von Mises Stress Contours:**  
-  ![Von Mises Stress](images/von_mises_stress.png)
+  ![Von Mises Stress](./vonMissesContourPlot.png)
 
 ---
 
