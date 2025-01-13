@@ -1,4 +1,4 @@
-=# Tensile Test on Fiber-Reinforced Composite
+# Tensile Test on Fiber-Reinforced Composite
 
 This repository contains the scripts, images, and results for a project conducted as part of the course **ME 792**, supervised by **Dr. Hu**. The project focuses on predicting the material properties of unidirectional fiber-reinforced polymer matrix composites using both theoretical models and simulations in ANSYS APDL.
 
